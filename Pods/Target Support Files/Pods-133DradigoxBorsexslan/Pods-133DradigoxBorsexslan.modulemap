@@ -1,0 +1,6 @@
+framework module Pods_133DradigoxBorsexslan {
+  umbrella header "Pods-133DradigoxBorsexslan-umbrella.h"
+
+  export *
+  module * { export * }
+}
